@@ -1,1 +1,3 @@
 # gameMirror
+
+Vamos atualizando aos poucos...
